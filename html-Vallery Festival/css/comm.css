@@ -36,7 +36,7 @@ header .logo a{
 }
 .nav-depth2{
     overflow: hidden;
-    width:0; 
+    width:0; height: 130px;
     position: absolute; top: 0; left: 185px;
     background: #fff; box-shadow: .5px .5px 3px #555;
     z-index: 200; transition: all 0.2s;
@@ -155,7 +155,7 @@ header .logo a{
     align-items: center;
 }
 .lst-gallery img{
-    width:  97%;
+    width:  97%; 
     object-fit: cover;
 }
 
